@@ -5,8 +5,8 @@
 <h4>I’m  from Sri Lanka 🇱🇰. I am Full Stack Developer and always enjoy learning new Languages and frameworks. I have completed my Bachelor in  Engineering from University of Moratuwa .    Please do visit and checkout my previous skill improvement projects  done with different frameworks and languages like (Java , Js , Jakarta EE , Database (Mysql/PostgreSQL Redis) ,HTML5, CSS3 , Boostrap, Spring .....etc”</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradeep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pradeep sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep sampath" height="30" width="40" /></a>
+<a href="[https://twitter.com/pradeep](https://twitter.com/kpspremakumara)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradeep" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/pradeep sampath](https://www.linkedin.com/in/pradeep-sampath-2b9a07148?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbLStrQ2FR5COgMkq9uIakg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep sampath" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20135308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20135308" height="30" width="40" /></a>
 </p>
 
