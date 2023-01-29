@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi there 👋, I'm Pradeep Sampath</h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka 🇱🇰</h3>
+<h1 align="center">Hello 👋, I'm Pradeep Sampath</h1>
+<h3 align="center">A passionate Full Stack Software Engineer from Sri Lanka 🇱🇰</h3>
 
-<h4>I am Full Stack Developer and always enjoy learning new Languages and frameworks. I have completed my Bachelor in  Engineering from University of Moratuwa . Currently, my technological stack consists of several scopes as mentioned here. Java is my initial language since I take my first footstep in the programming world. Further, JS,TS ,HTML and CSS are my favaroite languesges. You can share your skills with me and I love it and pleasure to meet you on this energetic knowledge sharing platform. Thank you !”</h4>
+<h4>I am  always enjoy with learning new Languages and frameworks. I have completed my Bachelor in  Engineering from University of Moratuwa . Currently, my technological stack consists of several scopes as mentioned here. Java is my initial language since I take my first footstep in the programming world. Further, JS,TS ,HTML and CSS are my favaroite languesges. You can share your skills with me and I love it and pleasure to meet you on this energetic knowledge sharing platform. Thank you !”</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kpspremakumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradeep" height="30" width="40" /></a>
